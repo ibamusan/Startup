@@ -1,0 +1,27 @@
+body{
+
+	background-image: url(header.jpg);
+	background-size: cover;
+
+}
+
+
+.container{
+
+	color: #769D61;
+	font-style: italic;
+	font-family: robotic;
+	margin-top: 225px;
+	margin-left: 450px;
+	
+}
+
+.container1{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+margin-top: 205px;
+
+
+}
